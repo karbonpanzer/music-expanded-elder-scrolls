@@ -1,0 +1,285 @@
+<Defs>
+	<MusicExpanded.TrackDef>
+		<label>Skyrim- A Chance Meetin</label>
+		<defName>ME_ES_Skyrim_A_Chance_Meeting</defName>
+		<clipPath>MusicExpanded/Skyrim/Skyrim- A Chance Meeting</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Skyrim- A Winter's Tale</label>
+		<defName>ME_ES_Skyrim_A_Winters_Tale</defName>
+		<clipPath>MusicExpanded/Skyrim/Skyrim- A Winter's Tale</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Skyrim- Ancient Stones</label>
+		<defName>ME_ES_Skyrim_Ancient_Stones</defName>
+		<clipPath>MusicExpanded/Skyrim/Skyrim- Ancient Stones</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Skyrim- Around the Fire</label>
+		<defName>ME_ES_Skyrim_Around_the_Fire</defName>
+		<clipPath>MusicExpanded/Skyrim/Skyrim- Around the Fire</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Skyrim- Aurora</label>
+		<defName>ME_ES_Skyrim_Aurora</defName>
+		<clipPath>MusicExpanded/Skyrim/Skyrim- Aurora</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Skyrim- Awake</label>
+		<defName>ME_ES_Skyrim_Awake</defName>
+		<clipPath>MusicExpanded/Skyrim/Skyrim- Awake</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Skyrim- Before the Storm</label>
+		<defName>ME_ES_Skyrim_Before_the_Storm</defName>
+		<clipPath>MusicExpanded/Skyrim/Skyrim- Before the Storm</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Skyrim- Beneath the Ice</label>
+		<defName>ME_ES_Skyrim_Beneath_the_Ice</defName>
+		<clipPath>MusicExpanded/Skyrim/Skyrim- Beneath the Ice</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Skyrim- Dawn</label>
+		<defName>ME_ES_Skyrim_Dawn</defName>
+		<clipPath>MusicExpanded/Skyrim/Skyrim- Dawn</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Skyrim- Death in the Darkness</label>
+		<defName>ME_ES_Skyrim_Death_in_the_Darkness</defName>
+		<clipPath>MusicExpanded/Skyrim/Skyrim- Death in the Darkness</clipPath>
+	</MusicExpanded.TrackDef>
+	
+	<MusicExpanded.TrackDef>
+		<label>Skyrim- Distant Horizons</label>
+		<defName>ME_ES_Skyrim_Distant_Horizons</defName>
+		<clipPath>MusicExpanded/Skyrim/Skyrim- Distant Horizons</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Skyrim- Dragonsreach</label>
+		<defName>ME_ES_Skyrim_Dragonsreach</defName>
+		<clipPath>MusicExpanded/Skyrim/Skyrim- Dragonsreach</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Skyrim- Far Horizons</label>
+		<defName>ME_ES_Skyrim_Far_Horizons</defName>
+		<clipPath>MusicExpanded/Skyrim/Skyrim- Far Horizons</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Skyrim- From Past to Present</label>
+		<defName>ME_ES_Skyrim_From_Past_to_Present</defName>
+		<clipPath>MusicExpanded/Skyrim/Skyrim- From Past to Present</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Skyrim- Frostfall</label>
+		<defName>ME_ES_Skyrim_Frostfall</defName>
+		<clipPath>MusicExpanded/Skyrim/Skyrim- Frostfall</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Skyrim- Imperial Throne</label>
+		<defName>ME_ES_Skyrim_Imperial_Throne</defName>
+		<clipPath>MusicExpanded/Skyrim/Skyrim- Imperial Throne</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Skyrim- Into Darkness</label>
+		<defName>ME_ES_Skyrim_Into_Darkness</defName>
+		<clipPath>MusicExpanded/Skyrim/Skyrim- Into Darkness</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Skyrim- Journey's End</label>
+		<defName>ME_ES_Skyrim_Journeys_End</defName>
+		<clipPath>MusicExpanded/Skyrim/Skyrim- Journey's End</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Skyrim- Kyne's Peace</label>
+		<defName>ME_ES_Skyrim_Kynes_Peace</defName>
+		<clipPath>MusicExpanded/Skyrim/Skyrim- Kyne's Peace</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Skyrim- Masser</label>
+		<defName>ME_ES_Skyrim_Masser</defName>
+		<clipPath>MusicExpanded/Skyrim/Skyrim- Masser</clipPath>
+	</MusicExpanded.TrackDef>
+	
+	<MusicExpanded.TrackDef>
+		<label>Skyrim- Night Without Stars</label>
+		<defName>ME_ES_Skyrim_Night_Without_Stars</defName>
+		<clipPath>MusicExpanded/Skyrim/Skyrim- Night Without Stars</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Skyrim- Out of the Cold</label>
+		<defName>ME_ES_Skyrim_Out_of_the_Cold</defName>
+		<clipPath>MusicExpanded/Skyrim/Skyrim- Out of the Cold</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Skyrim- Secunda</label>
+		<defName>ME_ES_Skyrim_Secunda</defName>
+		<clipPath>MusicExpanded/Skyrim/Skyrim- Secunda</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Skyrim- Seven Thousand Steps</label>
+		<defName>ME_ES_Skyrim_Seven_Thousand_Steps</defName>
+		<clipPath>MusicExpanded/Skyrim/Skyrim- Seven Thousand Steps</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Skyrim- Shadows and Echoes</label>
+		<defName>ME_ES_Skyrim_Shadows_and_Echoes</defName>
+		<clipPath>MusicExpanded/Skyrim/Skyrim- Shadows and Echoes</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Skyrim- Shattered Shields</label>
+		<defName>ME_ES_Skyrim_Shattered_Shields</defName>
+		<clipPath>MusicExpanded/Skyrim/Skyrim- Shattered Shields</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Skyrim- Silence Unbroken</label>
+		<defName>ME_ES_Skyrim_Silence_Unbroken</defName>
+		<clipPath>MusicExpanded/Skyrim/Skyrim- Silence Unbroken</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Skyrim- Silent Footsteps</label>
+		<defName>ME_ES_Skyrim_Silent_Footsteps</defName>
+		<clipPath>MusicExpanded/Skyrim/Skyrim- Silent Footsteps</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Skyrim- Sky Above, Voice Within</label>
+		<defName>ME_ES_Skyrim_Sky_Above_Voice_Within</defName>
+		<clipPath>MusicExpanded/Skyrim/Skyrim- Sky Above, Voice Within</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Skyrim- Solitude</label>
+		<defName>ME_ES_Skyrim_Solitude</defName>
+		<clipPath>MusicExpanded/Skyrim/Skyrim- Solitude</clipPath>
+	</MusicExpanded.TrackDef>
+	
+	<MusicExpanded.TrackDef>
+		<label>Skyrim- Sovngarde</label>
+		<defName>ME_ES_Skyrim_Sovngarde</defName>
+		<clipPath>MusicExpanded/Skyrim/Skyrim- Sovngarde</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Skyrim- Standing Stones</label>
+		<defName>ME_ES_Skyrim_Standing_Stones</defName>
+		<clipPath>MusicExpanded/Skyrim/Skyrim- Standing Stones</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Skyrim- The Bannered Mare</label>
+		<defName>ME_ES_Skyrim_The_Bannered_Mare</defName>
+		<clipPath>MusicExpanded/Skyrim/Skyrim- The Bannered Mare</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Skyrim- The City Gates</label>
+		<defName>ME_ES_Skyrim_The_City_Gates</defName>
+		<clipPath>MusicExpanded/Skyrim/Skyrim- The City Gates</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Skyrim- The Gathering Storm</label>
+		<defName>ME_ES_Skyrim_The_Gathering_Storm</defName>
+		<clipPath>MusicExpanded/Skyrim/Skyrim- The Gathering Storm</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Skyrim- The Jerall Mountains</label>
+		<defName>ME_ES_Skyrim_The_Jerall_Mountains</defName>
+		<clipPath>MusicExpanded/Skyrim/Skyrim- The Jerall Mountains</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Skyrim- The Streets of Whiterun</label>
+		<defName>ME_ES_Skyrim_The_Streets_of_Whiterun</defName>
+		<clipPath>MusicExpanded/Skyrim/Skyrim- The Streets of Whiterun</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Skyrim- The White River</label>
+		<defName>ME_ES_Skyrim_The_White_River</defName>
+		<clipPath>MusicExpanded/Skyrim/Skyrim- The White River</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Skyrim- Towers and Shadows</label>
+		<defName>ME_ES_Skyrim_Towers_and_Shadows</defName>
+		<clipPath>MusicExpanded/Skyrim/Skyrim- Towers and Shadows</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Skyrim- Tundra</label>
+		<defName>ME_ES_Skyrim_Tundra</defName>
+		<clipPath>MusicExpanded/Skyrim/Skyrim- Tundra</clipPath>
+	</MusicExpanded.TrackDef>
+	
+	<MusicExpanded.TrackDef>
+		<label>Skyrim- Unbound</label>
+		<defName>ME_ES_Skyrim_Unbound</defName>
+		<clipPath>MusicExpanded/Skyrim/Skyrim- Unbound</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Skyrim- Unbroken Road</label>
+		<defName>ME_ES_Skyrim_Unbroken_Road</defName>
+		<clipPath>MusicExpanded/Skyrim/Skyrim- Unbroken Road</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Skyrim- Under an Ancient Sun</label>
+		<defName>ME_ES_Skyrim_Under_an_Ancient_Sun</defName>
+		<clipPath>MusicExpanded/Skyrim/Skyrim- Under an Ancient Sun</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Skyrim- Wind Guide You</label>
+		<defName>ME_ES_Skyrim_Wind_Guide_You</defName>
+		<clipPath>MusicExpanded/Skyrim/Skyrim- Wind Guide You</clipPath>
+	</MusicExpanded.TrackDef>
+	
+	<MusicExpanded.TrackDef>
+		<label>Skyrim- Dragonborn</label>
+		<defName>ME_ES_Skyrim_Dragonborn</defName>
+		<clipPath>MusicExpanded/Skyrim/Skyrim- Dragonborn</clipPath>
+        <cue>MainMenu</cue>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Skyrim- Sovngarde Credits</label>
+		<defName>ME_ES_Skyrim_Sovngarde_Credits</defName>
+		<clipPath>MusicExpanded/Skyrim/Skyrim- Sovngarde Credits</clipPath>
+        <cue>Credits</cue>
+    </MusicExpanded.TrackDef>
+	
+	<MusicExpanded.TrackDef>
+		<label>Skyrim- Death or Sovngarde</label>
+		<defName>ME_ES_Skyrim_Death_or_Sovngarde</defName>
+		<clipPath>MusicExpanded/Skyrim/Skyrim- Death or Sovngarde</clipPath>
+		<cue>BattleSmall</cue>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Skyrim- Tooth and Claw</label>
+		<defName>ME_ES_Skyrim_Tooth_and_Claw</defName>
+		<clipPath>MusicExpanded/Skyrim/Skyrim- Tooth and Claw</clipPath>
+		<cue>BattleSmall</cue>
+    </MusicExpanded.TrackDef>
+	
+	<MusicExpanded.TrackDef>
+		<label>Skyrim- Steel on Steel</label>
+		<defName>ME_ES_Skyrim_Steel_on_Steel</defName>
+		<clipPath>MusicExpanded/Skyrim/Skyrim- Steel on Steel</clipPath>
+		<cue>BattleMedium</cue>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Skyrim- Caught Off Guard</label>
+		<defName>ME_ES_Skyrim_Caught_Off_Guard</defName>
+		<clipPath>MusicExpanded/Skyrim/Skyrim- Caught Off Guard</clipPath>
+		<cue>BattleMedium</cue>
+    </MusicExpanded.TrackDef>
+	
+	<MusicExpanded.TrackDef>
+		<label>Skyrim- One They Fear</label>
+		<defName>ME_ES_Skyrim_One_They_Fear</defName>
+		<clipPath>MusicExpanded/Skyrim/Skyrim- One They Fear</clipPath>
+		<cue>BattleLarge</cue>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Skyrim- Blood and Steel</label>
+		<defName>ME_ES_Skyrim_Blood_and_Steel</defName>
+		<clipPath>MusicExpanded/Skyrim/Skyrim- Blood and Steel</clipPath>
+		<cue>BattleLarge</cue>
+    </MusicExpanded.TrackDef>
+	
+	<MusicExpanded.TrackDef>
+		<label>Skyrim- Watch the Skies</label>
+		<defName>ME_ES_Skyrim_Watch_the_Skies</defName>
+		<clipPath>MusicExpanded/Skyrim/Skyrim- Watch the Skies</clipPath>
+		<cue>BattleLegendary</cue>
+    </MusicExpanded.TrackDef>
+</Defs>

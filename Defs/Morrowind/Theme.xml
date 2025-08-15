@@ -1,0 +1,31 @@
+<Defs>
+    <MusicExpanded.ThemeDef>
+        <defName>ME_ES_Morrowind</defName>
+        <label>Music Expanded: Elder Scrolls Morrowind</label>
+		<iconPath>UI/Icons/Morrowind</iconPath>
+        <description>Contains Tracks from Morrowind including 6 battle tracks so Come, Nerevar. Friend or traitor, come.</description>
+		<tracks>			
+			<li>ME_ES_Morrowind_Blessing_of_Vivec</li>
+			<li>ME_ES_Morrowind_Caprice</li>
+			<li>ME_ES_Morrowind_Darkened_Depths</li>
+			<li>ME_ES_Morrowind_Drumbeats_of_the_Dunmer</li>
+			<li>ME_ES_Morrowind_Introduction</li>
+			<li>ME_ES_Morrowind_Over_the_Next_Hill</li>
+			<li>ME_ES_Morrowind_Peaceful_Waters</li>
+			<li>ME_ES_Morrowind_Shed_Your_Travails</li>
+			<li>ME_ES_Morrowind_Silt_Sunrise</li>
+			<li>ME_ES_Morrowind_The_Prophecy_Fulfilled</li>
+			<li>ME_ES_Morrowind_The_Road_Most_Traveled</li>
+			
+			<li>ME_ES_Morrowind_Nerevar_Rising</li>
+			<li>ME_ES_Morrowind_Nerevar_Rising_Reprise</li>
+			
+			<li>ME_ES_Morrowind_Bright_Spears_Dark_Blood</li>
+			<li>ME_ES_Morrowind_Ambush</li>
+			<li>ME_ES_Morrowind_Hunters_Pursuit</li>
+			<li>ME_ES_Morrowind_Knights_Charge</li>
+			<li>ME_ES_Morrowind_Stormclouds_on_the_Battlefield</li>
+			<li>ME_ES_Morrowind_Dance_of_Swords</li>
+		</tracks>
+    </MusicExpanded.ThemeDef>
+</Defs>

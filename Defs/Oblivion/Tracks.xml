@@ -1,0 +1,147 @@
+<Defs>
+	<MusicExpanded.TrackDef>
+		<label>Oblivion- All's Well</label>
+		<defName>ME_ES_Oblivion_Alls_Well</defName>
+		<clipPath>MusicExpanded/Oblivion/Oblivion- All's Well</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Oblivion- Ancient Sorrow</label>
+		<defName>ME_ES_Oblivion_Ancient_Sorrow</defName>
+		<clipPath>MusicExpanded/Oblivion/Oblivion- Ancient Sorrow</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Oblivion- Auriel's Ascension</label>
+		<defName>ME_ES_Oblivion_Auriels_Ascension</defName>
+		<clipPath>MusicExpanded/Oblivion/Oblivion- Auriel's Ascension</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Oblivion- Deep Waters</label>
+		<defName>ME_ES_Oblivion_Deep_Waters</defName>
+		<clipPath>MusicExpanded/Oblivion/Oblivion- Deep Waters</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Oblivion- Dusk at the Market</label>
+		<defName>ME_ES_Oblivion_Dusk_at_the_Market</defName>
+		<clipPath>MusicExpanded/Oblivion/Oblivion- Dusk at the Market</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Oblivion- Glory of Cyrodil</label>
+		<defName>ME_ES_Oblivion_Glory_of_Cyrodil</defName>
+		<clipPath>MusicExpanded/Oblivion/Oblivion- Glory of Cyrodil</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Oblivion- King and Country</label>
+		<defName>ME_ES_Oblivion_King_and_Country</defName>
+		<clipPath>MusicExpanded/Oblivion/Oblivion- King and Country</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Oblivion- Minstrel's Lament</label>
+		<defName>ME_ES_Oblivion_Minstrels_Lament</defName>
+		<clipPath>MusicExpanded/Oblivion/Oblivion- Minstrel's Lament</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Oblivion- Peace of Akatosh</label>
+		<defName>ME_ES_Oblivion_Peace_of_Akatosh</defName>
+		<clipPath>MusicExpanded/Oblivion/Oblivion- Peace of Akatosh</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Oblivion- Sunrise of Flutes</label>
+		<defName>ME_ES_Oblivion_Sunrise_of_Flutes</defName>
+		<clipPath>MusicExpanded/Oblivion/Oblivion- Sunrise of Flutes</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Oblivion- Tension</label>
+		<defName>ME_ES_Oblivion_Tension</defName>
+		<clipPath>MusicExpanded/Oblivion/Oblivion- Tension</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Oblivion- Through the Valleys</label>
+		<defName>ME_ES_Oblivion_Through_the_Valleys</defName>
+		<clipPath>MusicExpanded/Oblivion/Oblivion- Through the Valleys</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Oblivion- Unmarked Stone</label>
+		<defName>ME_ES_Oblivion_Unmarked_Stone</defName>
+		<clipPath>MusicExpanded/Oblivion/Oblivion- Unmarked Stone</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Oblivion- Watchman's Ease</label>
+		<defName>ME_ES_Oblivion_Watchmans_Ease</defName>
+		<clipPath>MusicExpanded/Oblivion/Oblivion- Watchman's Ease</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Oblivion- Wind from the Depths</label>
+		<defName>ME_ES_Oblivion_Wind_from_the_Depths</defName>
+		<clipPath>MusicExpanded/Oblivion/Oblivion- Wind from the Depths</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Oblivion- Wings of Kynareth</label>
+		<defName>ME_ES_Oblivion_Wings_of_Kynareth</defName>
+		<clipPath>MusicExpanded/Oblivion/Oblivion- Wings of Kynareth</clipPath>
+	</MusicExpanded.TrackDef>	
+	
+	<MusicExpanded.TrackDef>
+		<label>Oblivion- Reign of the Septims</label>
+		<defName>ME_ES_Oblivion_Reign_of_the_Septims</defName>
+		<clipPath>MusicExpanded/Oblivion/Oblivion- Reign of the Septims</clipPath>
+        <cue>MainMenu</cue>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Oblivion- Reign of the Septims Credits</label>
+		<defName>ME_ES_Oblivion_Reign_of_the_Septims_Credits</defName>
+		<clipPath>MusicExpanded/Oblivion/Oblivion- Reign of the Septims Credits</clipPath>
+        <cue>Credits</cue>
+    </MusicExpanded.TrackDef>
+	
+	<MusicExpanded.TrackDef>
+		<label>Oblivion- Death Knell</label>
+		<defName>ME_ES_Oblivion_Death_Knell</defName>
+		<clipPath>MusicExpanded/Oblivion/Oblivion- Death Knell</clipPath>
+		<cue>BattleSmall</cue>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Oblivion- Churl's Revenge</label>
+		<defName>ME_ES_Oblivion_Churls_Revenge</defName>
+		<clipPath>MusicExpanded/Oblivion/Oblivion- Churl's Revenge</clipPath>
+		<cue>BattleSmall</cue>
+    </MusicExpanded.TrackDef>
+	
+	<MusicExpanded.TrackDef>
+		<label>Oblivion- Fall of the Hammer</label>
+		<defName>ME_ES_Oblivion_Fall_of_the_Hammer</defName>
+		<clipPath>MusicExpanded/Oblivion/Oblivion- Fall of the Hammer</clipPath>
+		<cue>BattleMedium</cue>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Oblivion- March of the Marauders</label>
+		<defName>ME_ES_Oblivion_March_of_the_Marauders</defName>
+		<clipPath>MusicExpanded/Oblivion/Oblivion- March of the Marauders</clipPath>
+		<cue>BattleMedium</cue>
+    </MusicExpanded.TrackDef>
+	
+	<MusicExpanded.TrackDef>
+		<label>Oblivion- Defending the Gate</label>
+		<defName>ME_ES_Oblivion_Defending_the_Gate</defName>
+		<clipPath>MusicExpanded/Oblivion/Oblivion- Defending the Gate</clipPath>
+		<cue>BattleLarge</cue>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Oblivion- Daedra in Flight</label>
+		<defName>ME_ES_Oblivion_Daedra_in_Flight</defName>
+		<clipPath>MusicExpanded/Oblivion/Oblivion- Daedra in Flight</clipPath>
+		<cue>BattleLarge</cue>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Oblivion- Bloody Blades</label>
+		<defName>ME_ES_Oblivion_Bloody_Blades</defName>
+		<clipPath>MusicExpanded/Oblivion/Oblivion- Bloody Blades</clipPath>
+		<cue>BattleLarge</cue>
+    </MusicExpanded.TrackDef>	
+	
+	<MusicExpanded.TrackDef>
+		<label>Oblivion- Bloodlust</label>
+		<defName>ME_ES_Oblivion_Bloodlust</defName>
+		<clipPath>MusicExpanded/Oblivion/Oblivion- Bloodlust</clipPath>
+		<cue>BattleLegendary</cue>
+    </MusicExpanded.TrackDef>
+</Defs>

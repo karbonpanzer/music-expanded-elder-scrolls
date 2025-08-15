@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>Music Expanded: Elder Scrolls</name>
+    <description><![CDATA[If you're streaming, be warned you might be flagged for Skyrim tracks though you should be fine for streaming. 
+
+The Definitive Collection of  Music from the Elder Scrolls Series. This mod is perfect for those trying to drive the mongrel dogs of the Empire away, End the tyranny of the Daedra and the dread god Mehrunes Dagon, or shout at Dragons until they die. This mod contains just the soundtracks from the game with new music for the main menu and credits.
+
+Tracks from the Following Games
+
+Morrowind: 
+Nerevar Rising, Peaceful Waters, Knight's Charge, Over the Next Hill, Bright Spears Dark Blood, The Road Most Traveled, Dance of Swords, Blessing of Vivec, Ambush, Silt Sunrise, Hunter's Pursuit, Shed Your Travails, Stormcoulds on the Battlefield, Caprice, Drumbeats of the Dunmer, Darkened Depths, The Prophecy Fulfilled, Introduction, Nerevar Rising Reprise.
+
+Oblivion: 
+Reign of the Septims, Through the Valleys, Death Knell, Harvest Dawn, Wind from the Depths, King and Country, Fall of the Hammer, Wings of Kynareth, All's Well, Tension, March of the Marauders, Watchman's Ease, Glory of Cyrodiil, Defending the Gate, Bloody Blades, Minstrel's Lament, Ancient Sorrow, Auriel's Ascension, Daedra in Flight, Unmarked Stone, Bloodlust, Sunrise of Flutes, Churl's Revenge, Deep Waters, Dusk at the Market, Peace of Akatosh
+
+Skyrim: 
+Dragonborn, Awake, From Past to Present, Unbroken Road, Ancient Stones, The City Gates, Silent Footsteps, Dragonsreach, Tooth and Claw, Under an Ancient Sun, Death or Sovngarde, Masser, Distant Horizons, Dawn, The Jerall Mountains, Steel on Steel, Secunda, Imperial Throne, Frostfall, Night without Stars, Into Darkness, Kyne's Peace, Unbound, Far Horizons, A Winter's Tale, The Bannered Mare, The Streets of Whiterun, One They Fear, The White River, Silence Unbroken, Standing Stones, Beneath the Ice, Tundra, Journey's End, Before the Storm, A Chance Meeting, Out of the Cold, Around the Fire, Shadows and Echoes, Caught off Guard, Aurora, Blood and Steel, Towers and Shadows, Seven Thousand Steps, Solitude, Watch the Skies, The Gathering Storm, Sky Above, Voice Within, Death in the Darkness, Shattered Shields, Sovngarde, Wind Guide You, Skyrim Atmospheres]]>
+    </description>
+    <author>karbonpanzer</author>
+    <packageId>musicexpanded.elderscrolls</packageId>
+    <supportedVersions>
+        <li>1.3</li>
+        <li>1.4</li>
+        <li>1.5</li>	
+    </supportedVersions>
+    <loadAfter>
+        <li>musicexpanded.framework</li>
+        <li>VanillaExpanded.VEE</li>
+    </loadAfter>
+    <modDependencies>
+        <li>
+            <packageId>musicexpanded.framework</packageId>
+            <displayName>Music Expanded Framework</displayName>
+            <downloadUrl>https://github.com/Music-Expanded/music-expanded-framework/releases/latest</downloadUrl>
+        </li>
+    </modDependencies>
+</ModMetaData>

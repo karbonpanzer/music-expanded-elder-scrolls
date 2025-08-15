@@ -1,0 +1,66 @@
+<Defs>
+    <MusicExpanded.ThemeDef>
+        <defName>ME_ES_Skyrim</defName>
+        <label>Music Expanded: Elder Scrolls Skyrim</label>
+		<iconPath>UI/Icons/Skyrim</iconPath>
+        <description>Contains Tracks from Skyrim with 7 battle tracks.</description>
+		<tracks>			
+			<li>ME_ES_Skyrim_A_Chance_Meeting</li>
+			<li>ME_ES_Skyrim_A_Winters_Tale</li>
+			<li>ME_ES_Skyrim_Ancient_Stones</li>
+			<li>ME_ES_Skyrim_Around_the_Fire</li>
+			<li>ME_ES_Skyrim_Aurora</li>
+			<li>ME_ES_Skyrim_Awake</li>
+			<li>ME_ES_Skyrim_Before_the_Storm</li>
+			<li>ME_ES_Skyrim_Beneath_the_Ice</li>
+			<li>ME_ES_Skyrim_Dawn</li>
+			<li>ME_ES_Skyrim_Death_in_the_Darkness</li>
+			<li>ME_ES_Skyrim_Distant_Horizons</li>
+			<li>ME_ES_Skyrim_Dragonsreach</li>
+			<li>ME_ES_Skyrim_Far_Horizons</li>
+			<li>ME_ES_Skyrim_From_Past_to_Present</li>
+			<li>ME_ES_Skyrim_Frostfall</li>
+			<li>ME_ES_Skyrim_Imperial_Throne</li>
+			<li>ME_ES_Skyrim_Into_Darkness</li>
+			<li>ME_ES_Skyrim_Journeys_End</li>
+			<li>ME_ES_Skyrim_Kynes_Peace</li>
+			<li>ME_ES_Skyrim_Masser</li>
+			<li>ME_ES_Skyrim_Night_Without_Stars</li>
+			<li>ME_ES_Skyrim_Out_of_the_Cold</li>
+			<li>ME_ES_Skyrim_Secunda</li>
+			<li>ME_ES_Skyrim_Seven_Thousand_Steps</li>
+			<li>ME_ES_Skyrim_Shadows_and_Echoes</li>
+			<li>ME_ES_Skyrim_Shattered_Shields</li>
+			<li>ME_ES_Skyrim_Silence_Unbroken</li>
+			<li>ME_ES_Skyrim_Silent_Footsteps</li>
+			<li>ME_ES_Skyrim_Sky_Above_Voice_Within</li>
+			<li>ME_ES_Skyrim_Solitude</li>
+			<li>ME_ES_Skyrim_Sovngarde</li>
+			<li>ME_ES_Skyrim_Standing_Stones</li>
+			<li>ME_ES_Skyrim_The_Bannered_Mare</li>
+			<li>ME_ES_Skyrim_The_City_Gates</li>
+			<li>ME_ES_Skyrim_The_Gathering_Storm</li>
+			<li>ME_ES_Skyrim_The_Jerall_Mountains</li>
+			<li>ME_ES_Skyrim_The_Streets_of_Whiterun</li>
+			<li>ME_ES_Skyrim_The_White_River</li>
+			<li>ME_ES_Skyrim_Towers_and_Shadows</li>
+			<li>ME_ES_Skyrim_Tundra</li>
+			<li>ME_ES_Skyrim_Unbound</li>
+			<li>ME_ES_Skyrim_Unbroken_Road</li>
+			<li>ME_ES_Skyrim_Under_an_Ancient_Sun</li>
+			<li>ME_ES_Skyrim_Watch_the_Skies</li>
+			<li>ME_ES_Skyrim_Wind_Guide_You</li>
+			
+			<li>ME_ES_Skyrim_Dragonborn</li>
+			<li>ME_ES_Skyrim_Sovngarde_Credits</li>
+			
+			<li>ME_ES_Skyrim_Death_or_Sovngarde</li>
+			<li>ME_ES_Skyrim_Tooth_and_Claw</li>
+			<li>ME_ES_Skyrim_Steel_on_Steel</li>
+			<li>ME_ES_Skyrim_Caught_Off_Guard</li>
+			<li>ME_ES_Skyrim_One_They_Fear</li>
+			<li>ME_ES_Skyrim_Blood_and_Steel</li>
+			<li>ME_ES_Skyrim_Watch_the_Skies</li>			
+		</tracks>
+    </MusicExpanded.ThemeDef>
+</Defs>

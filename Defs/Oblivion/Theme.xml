@@ -1,0 +1,39 @@
+<Defs>
+    <MusicExpanded.ThemeDef>
+        <defName>ME_ES_Oblivion</defName>
+        <label>Music Expanded: Elder Scrolls Oblivion</label>
+		<iconPath>UI/Icons/Oblivion</iconPath>
+        <description>Contains Tracks from Oblivion with 8 battle tracks.</description>
+		<tracks>			
+			<li>ME_ES_Oblivion_Alls_Well</li>
+			<li>ME_ES_Oblivion_Ancient_Sorrow</li>
+			<li>ME_ES_Oblivion_Auriels_Ascension</li>
+			<li>ME_ES_Oblivion_Deep_Waters</li>
+			<li>ME_ES_Oblivion_Dusk_at_the_Market</li>
+			<li>ME_ES_Oblivion_Glory_of_Cyrodil</li>
+			<li>ME_ES_Oblivion_King_and_Country</li>
+			<li>ME_ES_Oblivion_Minstrels_Lament</li>
+			<li>ME_ES_Oblivion_Peace_of_Akatosh</li>
+			<li>ME_ES_Oblivion_Sunrise_of_Flutes</li>
+			<li>ME_ES_Oblivion_Tension</li>
+			<li>ME_ES_Oblivion_Through_the_Valleys</li>
+			<li>ME_ES_Oblivion_Unmarked_Stone</li>
+			<li>ME_ES_Oblivion_Watchmans_Ease</li>
+			<li>ME_ES_Oblivion_Wind_from_the_Depths</li>
+			<li>ME_ES_Oblivion_Wings_of_Kynareth</li>
+			
+			<li>ME_ES_Oblivion_Reign_of_the_Septims</li>
+			<li>ME_ES_Oblivion_Reign_of_the_Septims_Credits</li>
+			
+			<li>ME_ES_Oblivion_Death_Knell</li>
+			<li>ME_ES_Oblivion_Churls_Revenge</li>			
+			<li>ME_ES_Oblivion_Fall_of_the_Hammer</li>
+			<li>ME_ES_Oblivion_March_of_the_Marauders</li>			
+			<li>ME_ES_Oblivion_Defending_the_Gate</li>
+			<li>ME_ES_Oblivion_Daedra_in_Flight</li>
+			<li>ME_ES_Oblivion_Bloody_Blades</li>
+			<li>ME_ES_Oblivion_Bloodlust</li>
+		
+		</tracks>
+    </MusicExpanded.ThemeDef>
+</Defs>

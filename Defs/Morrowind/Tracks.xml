@@ -1,0 +1,107 @@
+<Defs>
+	<MusicExpanded.TrackDef>
+		<label>Morrowind- Blessing of Vivec</label>
+		<defName>ME_ES_Morrowind_Blessing_of_Vivec</defName>
+		<clipPath>MusicExpanded/Morrowind/Morrowind- Blessing of Vivec</clipPath>
+	</MusicExpanded.TrackDef>
+	 <MusicExpanded.TrackDef>
+		<label>Morrowind- Caprice</label>
+		<defName>ME_ES_Morrowind_Caprice</defName>
+		<clipPath>MusicExpanded/Morrowind/Morrowind- Caprice</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Morrowind- Darkened Depths</label>
+		<defName>ME_ES_Morrowind_Darkened_Depths</defName>
+		<clipPath>MusicExpanded/Morrowind/Morrowind- Darkened Depths</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Morrowind- Drumbeats of the Dunmer</label>
+		<defName>ME_ES_Morrowind_Drumbeats_of_the_Dunmer</defName>
+		<clipPath>MusicExpanded/Morrowind/Morrowind- Drumbeats of the Dunmer</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Morrowind- Introduction</label>
+		<defName>ME_ES_Morrowind_Introduction</defName>
+		<clipPath>MusicExpanded/Morrowind/Morrowind- Introduction</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Morrowind- Over the Next Hill</label>
+		<defName>ME_ES_Morrowind_Over_the_Next_Hill</defName>
+		<clipPath>MusicExpanded/Morrowind/Morrowind- Over the Next Hill</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Morrowind- Peaceful Waters</label>
+		<defName>ME_ES_Morrowind_Peaceful_Waters</defName>
+		<clipPath>MusicExpanded/Morrowind/Morrowind- Peaceful Waters</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Morrowind- Shed Your Travails</label>
+		<defName>ME_ES_Morrowind_Shed_Your_Travails</defName>
+		<clipPath>MusicExpanded/Morrowind/Morrowind- Shed Your Travails</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Morrowind- Silt Sunrise</label>
+		<defName>ME_ES_Morrowind_Silt_Sunrise</defName>
+		<clipPath>MusicExpanded/Morrowind/Morrowind- Silt Sunrise</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Morrowind- The Prophecy Fulfilled</label>
+		<defName>ME_ES_Morrowind_The_Prophecy_Fulfilled</defName>
+		<clipPath>MusicExpanded/Morrowind/Morrowind- The Prophecy Fulfilled</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Morrowind- The Road Most Traveled</label>
+		<defName>ME_ES_Morrowind_The_Road_Most_Traveled</defName>
+		<clipPath>MusicExpanded/Morrowind/Morrowind- The Road Most Traveled</clipPath>
+	</MusicExpanded.TrackDef>
+	
+	<MusicExpanded.TrackDef>
+		<label>Morrowind- Nerevar Rising</label>
+		<defName>ME_ES_Morrowind_Nerevar_Rising</defName>
+		<clipPath>MusicExpanded/Morrowind/Morrowind- Nerevar Rising</clipPath>
+        <cue>MainMenu</cue>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Morrowind- Nerevar Rising Reprise</label>
+		<defName>ME_ES_Morrowind_Nerevar_Rising_Reprise</defName>
+		<clipPath>MusicExpanded/Morrowind/Morrowind- Nerevar Rising Reprise</clipPath>
+        <cue>Credits</cue>
+    </MusicExpanded.TrackDef>
+	
+	<MusicExpanded.TrackDef>
+		<label>Morrowind- Bright Spears Dark Blood</label>
+		<defName>ME_ES_Morrowind_Bright_Spears_Dark_Blood</defName>
+		<clipPath>MusicExpanded/Morrowind/Morrowind- Bright Spears Dark Blood</clipPath>
+		<cue>BattleSmall</cue>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Morrowind- Ambush</label>
+		<defName>ME_ES_Morrowind_Ambush</defName>
+		<clipPath>MusicExpanded/Morrowind/Morrowind- Ambush</clipPath>
+		<cue>BattleSmall</cue>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Morrowind- Hunter's Pursuit</label>
+		<defName>ME_ES_Morrowind_Hunters_Pursuit</defName>
+		<clipPath>MusicExpanded/Morrowind/Morrowind- Hunter's Pursuit</clipPath>
+		<cue>BattleMedium</cue>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Morrowind- Knight's Charge</label>
+		<defName>ME_ES_Morrowind_Knights_Charge</defName>
+		<clipPath>MusicExpanded/Morrowind/Morrowind- Knight's Charge</clipPath>
+		<cue>BattleLarge</cue>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Morrowind- Stormclouds on the Battlefield</label>
+		<defName>ME_ES_Morrowind_Stormclouds_on_the_Battlefield</defName>
+		<clipPath>MusicExpanded/Morrowind/Morrowind- Stormclouds on the Battlefield</clipPath>
+		<cue>BattleLarge</cue>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Morrowind- Dance of Swords</label>
+		<defName>ME_ES_Morrowind_Dance_of_Swords</defName>
+		<clipPath>MusicExpanded/Morrowind/Morrowind- Dance of Swords</clipPath>
+		<cue>BattleLegendary</cue>
+    </MusicExpanded.TrackDef>
+</Defs>

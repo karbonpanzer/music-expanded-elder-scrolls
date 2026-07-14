@@ -1,9 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
 <Defs>
     <MusicExpanded.ThemeDef>
         <defName>ME_ES_Oblivion</defName>
         <label>Music Expanded: Elder Scrolls Oblivion</label>
 		<iconPath>UI/Icons/Oblivion</iconPath>
-        <description>Contains Tracks from Oblivion with 8 battle tracks.</description>
+        <description>Contains tracks from Oblivion. Eight combat tracks play whenever the map is in danger; the rest hold the peacetime rotation. Includes main menu and credits themes.</description>
 		<tracks>			
 			<li>ME_ES_Oblivion_Alls_Well</li>
 			<li>ME_ES_Oblivion_Ancient_Sorrow</li>

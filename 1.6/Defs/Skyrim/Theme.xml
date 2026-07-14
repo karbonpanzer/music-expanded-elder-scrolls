@@ -1,9 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
 <Defs>
     <MusicExpanded.ThemeDef>
         <defName>ME_ES_Skyrim</defName>
         <label>Music Expanded: Elder Scrolls Skyrim</label>
 		<iconPath>UI/Icons/Skyrim</iconPath>
-        <description>Contains Tracks from Skyrim with 7 battle tracks.</description>
+        <description>Contains tracks from Skyrim. Seven combat tracks play whenever the map is in danger; the rest hold the peacetime rotation. Includes main menu and credits themes.</description>
 		<tracks>			
 			<li>ME_ES_Skyrim_A_Chance_Meeting</li>
 			<li>ME_ES_Skyrim_A_Winters_Tale</li>
@@ -48,7 +49,6 @@
 			<li>ME_ES_Skyrim_Unbound</li>
 			<li>ME_ES_Skyrim_Unbroken_Road</li>
 			<li>ME_ES_Skyrim_Under_an_Ancient_Sun</li>
-			<li>ME_ES_Skyrim_Watch_the_Skies</li>
 			<li>ME_ES_Skyrim_Wind_Guide_You</li>
 			
 			<li>ME_ES_Skyrim_Dragonborn</li>

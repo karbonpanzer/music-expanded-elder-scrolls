@@ -1,9 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
 <Defs>
     <MusicExpanded.ThemeDef>
         <defName>ME_ES_Morrowind</defName>
         <label>Music Expanded: Elder Scrolls Morrowind</label>
 		<iconPath>UI/Icons/Morrowind</iconPath>
-        <description>Contains Tracks from Morrowind including 6 battle tracks so Come, Nerevar. Friend or traitor, come.</description>
+        <description>Contains tracks from Morrowind. Six combat tracks play whenever the map is in danger; the rest hold the peacetime rotation. Includes main menu and credits themes. Come, Nerevar. Friend or traitor, come.</description>
 		<tracks>			
 			<li>ME_ES_Morrowind_Blessing_of_Vivec</li>
 			<li>ME_ES_Morrowind_Caprice</li>
